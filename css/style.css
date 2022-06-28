@@ -215,13 +215,13 @@ margin: 20px 0px 20px 10px;
     flex-wrap: wrap;
   }
 }
-@media (max-width:393px){
+@media (max-width:450px){
   .footer__menu{
     flex-wrap: wrap;
     justify-content: center;
   }
   .footer__logo{
-    padding-right: 30px;
+    padding-right: 10px;
   }
 }
 @media (max-width:369px){
